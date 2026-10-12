@@ -1,0 +1,10 @@
+const name = "Yomna";
+let x = 23;
+let coding = true;
+console.log("Welcom "+ name );
+console.log("Your age is "+ x );
+x=x+1;
+console.log(" Next year you will be  "+ x );
+console.log(typeof name);
+console.log(typeof x);
+console.log(typeof coding);
