@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: #737985;
+    font-family: Arial, sans-serif;
+}
+
+#x {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+button {
+    padding: 10px 18px;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    cursor: pointer;
+}
+
+#inc {
+    background-color: #2E8B57;
+}
+
+#dec {
+    background-color: #C45B63;
+}
+
+#res {
+    background-color: #2457C5;
+}
+
+.positive {
+    color: #2E8B57;
+}
+
+.negative {
+    color: #C45B63;
+}
